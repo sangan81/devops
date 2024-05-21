@@ -1,2 +1,2 @@
 This is an test file for demo text
-This line is an additional line for conflict test.
+this is an conflict test line
