@@ -1,2 +1,3 @@
 This is an test file for demo text
-this is an conflict test line , add additional data details to this file.
+this is an conflict test line 
+
